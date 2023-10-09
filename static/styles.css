@@ -1,0 +1,18 @@
+body {
+    background-color: #F3F7FF;
+    padding-left: 20px;
+}
+
+h1, h3, h4, p, li {
+    font-family: "Verdana";
+    color: #3D2C40;
+    padding-top: 3px;
+}
+
+a {
+    font-size: 18px;
+}
+
+img {
+    border-radius: 10px;
+}
